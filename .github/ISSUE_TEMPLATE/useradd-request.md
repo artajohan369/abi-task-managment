@@ -3,7 +3,8 @@ name: "UserAdd Request"
 about: "Template for UserAddRequest"
 title: 'Add my user to system please'
 labels: "enhancement"
-assignees: "artajohan"
+assignees: 
+  - artajohan
 ---
 
 Add my user to system please
