@@ -4,8 +4,6 @@ about: "Template for UserAddRequest"
 title: 'Add my user to system please'
 labels: "enhancement"
 assignees: "artajohan"
-projects: ["artajohan/ABI SysAdmin Managment"]
-
 ---
 
 Add my user to system please
