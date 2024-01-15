@@ -1,9 +1,11 @@
 ---
 name: UserAdd Request
 about: Template for UserAddRequest
-title: ''
+title: 'Add my user to system please'
 labels: enhancement
-assignees: ''
+assignees:
+  - artajohan
+projects: ["artajohan/ABI SysAdmin Managment"]
 
 ---
 
