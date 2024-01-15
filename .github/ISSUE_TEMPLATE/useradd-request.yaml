@@ -20,7 +20,7 @@ title: "[Bug]: "
 labels: ["bug", "triage"]
 projects: "artajohan369/abi-sysadmin-managment"
 assignees:
-  - octocat
+  - artajohan369
 body:
   - type: markdown
     attributes:
