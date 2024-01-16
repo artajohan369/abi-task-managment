@@ -1,35 +1,11 @@
 
-# name: "UserAdd Request"
-# about: "Template for UserAddRequest"
-# title: "Add my user to system please"
-# labels: "enhancement"
-# assignees: 
-#   - artajohan369
-# projects: "artajohan369/abi-sysadmin-managment"
+name: "UserAdd Request"
+about: "Template for UserAddRequest"
+title: "Add my user to system please"
+labels: "enhancement"
+assignees: "artajohan369"
+projects: "artajohan369/abi-sysadmin-managment"
 
-# body:
-#   - type: markdown
-#     attributes:
-#       value: |
-#         Add my user to system please
+ Add my user to system please
 
  
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: "artajohan369/abi-sysadmin-managment"
-assignees:
-  - artajohan369
-body:
-  - type: markdown
-    attributes:
-      value:
-        Thanks for taking the time to fill out this bug report!
-  - type: input
-    id: contact
-    attributes:
-      label: Contact Details
-      description: How can we get in touch with you if we need more info?
-  
-  
